@@ -128,7 +128,7 @@
 
 ## 10. Concluding Remarks
 
-Thank you for providing a unique experience and teaching us Oracle APEX well. Oracle APEX has helped build better apps with rich capabilities for data management, reporting, user interface, security, accessibility, monitoring, and globalization. It has been used to successfully provide solutions for real business problems across industries and geographies. From the simplest app that turns a spreadsheet into a web app, to mission critical apps that are accessed daily by hundreds of thousands of users. Oracle Apex is a very helpful platform, enabling easy creation of applications with robust user authentication, offering a range of features from parameterization to triggering, and much more. After all, the Oracle Apex application is definitely looking good after learning. Thank you for teaching us the Oracle Apex application very well. Thank you.
+As an Oracle APEX developer, I designed the Olympic 2020 app to streamline data handling and enhance user interaction. Leveraging APEX's robust features, the app efficiently manages athlete and event data, offering interactive reports and secure data access, ensuring a seamless, responsive experience for managing extensive Olympic datasets.
 
 
 
