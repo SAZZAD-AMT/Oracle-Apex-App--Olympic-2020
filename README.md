@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="img.png" >
+  <img src="ER.png" >
 </div>
