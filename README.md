@@ -1,25 +1,11 @@
 # Olympic 2020 - Database Systems Project Report
 
 ## 1. Final version of the E-R Model of the Project
-
-### Figure 1.1: ER model of the project
-
-![ER Model](path/to/your/er_model_image.png)
-
-### Figure 1.2: ER model of the project
-
-![ER Model Continued](path/to/your/er_model_image2.png)
-
 ## 2. Final Version of the Relational Data Model of the Project
-
-### Figure 2.1: Relational Data model of the project
-
-![Relational Data Model](path/to/your/relational_model_image.png)
-
-### Figure 2.2: Relational Data model of the project
-
-![Relational Data Model Continued](path/to/your/relational_model_image2.png)
-
+<div align="center">
+  <img src="ER.png" >
+  <img src="Relational.png" >
+</div>
 ## 3. Implementation Checklist
 
 - Uploaded and Displayed Images in Reports: Yes (In MEDEL Page)
@@ -47,19 +33,18 @@
 
 ### Figure 5.1: Athlete information
 
-![Athlete Information](path/to/your/athlete_info_image.png)
+
 
 ### Figure 5.2: Games report with form
 
-![Games Report](path/to/your/games_report_image.png)
+
 
 ### Figure 5.3: Countries report with form
 
-![Countries Report](path/to/your/countries_report_image.png)
 
 ### Figure 5.4: Medal report with form
 
-![Medal Report](path/to/your/medal_report_image.png)
+
 
 ## 5. Master-Detail Form
 
@@ -70,11 +55,11 @@
 
 ### Figure 5.1: Athlete and Rank state Information
 
-![Athlete and Rank State Information](path/to/your/athlete_rank_state_image.png)
+
 
 ### Figure 5.2: Athlete-Country Information
 
-![Athlete-Country Information](path/to/your/athlete_country_info_image.png)
+
 
 ## 6. Reports based on Multi-Table and Aggregate Queries
 
@@ -85,11 +70,10 @@
 
 ### Figure 6.1: Athlete-Country Information
 
-![Athlete-Country Information](path/to/your/athlete_country_info_image.png)
 
 ### Figure 6.2: Venue and Rank state Query
 
-![Venue and Rank State Query](path/to/your/venue_rank_state_query_image.png)
+
 
 ## 7. Parameterized Reports
 
@@ -100,11 +84,10 @@
 
 ### Figure 7.1: Venue Parameterized
 
-![Venue Parameterized](path/to/your/venue_parameterized_image.png)
+
 
 ### Figure 7.2: ATHLETE SEARCH Parameterize
 
-![Athlete Search](path/to/your/athlete_search_image.png)
 
 ## 8. Charts
 
@@ -115,11 +98,11 @@
 
 ### Figure 8.1: Olympic Dashboard Chart
 
-![Olympic Dashboard](path/to/your/olympic_dashboard_chart.png)
+
 
 ### Figure 8.2: Rank state Graph
 
-![Rank State Graph](path/to/your/rank_state_graph.png)
+
 
 ## 9. Authorization and User Role Assignment
 
@@ -127,12 +110,12 @@
 
 | User name | Password    | Role          |
 | --------- | ----------- | ------------- |
-| sazzad    | Sazzad123   | Administrator |
-| chadni    | Chadni123   | Reader        |
+| Alice    | Alice123   | Administrator |
+| Bob   | Bob123   | Reader        |
 
 ### Figure 9.1: User Access
 
-![User Access](path/to/your/user_access_image.png)
+
 
 **Page-wise Authorization Information:**
 
@@ -148,7 +131,4 @@
 Thank you for providing a unique experience and teaching us Oracle APEX well. Oracle APEX has helped build better apps with rich capabilities for data management, reporting, user interface, security, accessibility, monitoring, and globalization. It has been used to successfully provide solutions for real business problems across industries and geographies. From the simplest app that turns a spreadsheet into a web app, to mission critical apps that are accessed daily by hundreds of thousands of users. Oracle Apex is a very helpful platform, enabling easy creation of applications with robust user authentication, offering a range of features from parameterization to triggering, and much more. After all, the Oracle Apex application is definitely looking good after learning. Thank you for teaching us the Oracle Apex application very well. Thank you.
 
 
-<div align="center">
-  <img src="ER.png" >
-  <img src="Relational.png" >
-</div>
+
